@@ -17,7 +17,7 @@ class locality:
     def add_map(self,num):
         ind = 'index == '+str(num)
         latitude,longitude = self.locality.query(ind)['Latitude'],self.locality.query(ind)['Longitude']
-        pop = str(float(self.locality.query(ind)['Age']))+' (GA) '+str(self.locality.query(ind)['Mineral'])
+        pop = str(float(self.locality.query(ind)['Age']))+' (GA) '#+str(self.locality.query(ind)['Mineral'])
         folium.Marker([latitude, longitude], popup=pop).add_to(self.zmap)
         self.zmap.save('mineral_age.html')
 
