@@ -41,13 +41,9 @@ class locality:
             self.manual_collect(row[2],row[3],row[4],row[5],row[6],row[7],row[8])
         self.conn.close()
 
-
     def manual_collect(self,nation,location,latitude,longitude,mineral,age,reference):
         add_locality   = pd.DataFrame({'Nation':[nation], 'Location':[location], 'Latitude':[latitude], 'Longitude':[longitude], 'Mineral':[mineral], 'Age':[age],'Reference':[reference]},index=[len(self.locality)+1])
         self.locality  = pd.concat([self.locality,add_locality],sort=False)
-
-    def read_spreadsheet(self,url):
-        pass
 
     def google_map(self,latitude,longitude):
         url_bridge = 'https://www.google.com/maps/place/'+str(latitude)+'+'+str(longitude)
