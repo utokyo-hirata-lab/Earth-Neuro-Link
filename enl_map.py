@@ -18,7 +18,7 @@ class locality:
 
     def download_as_df(self,sheet_id, sheet_name):
         scopes      = ['https://www.googleapis.com/auth/spreadsheets']
-        json_file   = 'Earth-Neuro-Link-09b51be6f905.json'#Json Cliant ID for OAuth
+        json_file   = '/Users/watarut/Downloads/Earth-Neuro-Link.json'#Json Cliant ID for OAuth
         credentials = ServiceAccountCredentials.from_json_keyfile_name(json_file, scopes=scopes)
         http_auth   = credentials.authorize(Http())
         df = g2d.download(sheet_id, wks_name=sheet_name, col_names=True, row_names=False, credentials=credentials)
