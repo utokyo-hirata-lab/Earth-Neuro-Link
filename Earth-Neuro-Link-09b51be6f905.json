@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "earth-neuro-link",
+  "private_key_id": "09b51be6f90547c6137381fa4127b964716cc3c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmqE+j3PktjSpX\nYBS9m9YzbzlBP25nFaEZIDcPVHARJX2+rG5ye9x42hH+4u/2NzleZSODmL6STQZS\n+48GlZsQ+31Sd1sguIHwIZR0IpL9vSBTL3BtqZUhJlvTKrBKbkYFuvtl4Yxk8oiS\nCOXdFAuQqSCLFhCt0U8h0JPCwr6R3YgIva6sFchkINJKN35VonZr/AitgPUeo8FJ\nnD9Xm8+WJdR1osUWXm+7rKyGgqKnFlTlZlxynaaGcKBsump8IGlUMTidCny6ove9\n3KJcAkw5vtAsIkLc5TUQpbdtIKqOVqARGXHDBm7qv8XpT0bXdugdczuhPxabeAnh\n1gYWYQvFAgMBAAECggEABLiuo5UhDLn7wcSbvHtrvW1LO/P7bA7gJNbAIz5ge7vf\nghq0eP3VUynVFK7X3taAWOeYnU54fQCS9fWL1G3smgs7PljZ9hAEGQolKzJyOPS2\nCQ/w/spXypFMTKvgRAY3vvXQes8XASJ13V1EgII5iab2Sw/G99r+2OsQeethJr9f\nj6OdlAy7eg8FGfp1JWHyZNx4NR3NeS4p8XtwMtrqIqUUPHGcQNoHmvxCMmkRUgZV\n1XRriKUlv6cJ7/FT47vTGHvhXDIAWReZH0B3eJxa0tCHoVMbTkJQreutpqBdDp1o\nzUzSZGfeGeUcD3xdXIy6VrGrMaaFVTeOcOUyloVggQKBgQDQq7dW2bclf4xAXQ4U\nxAiv0gfscRI57FMMndtBxX65rDjmua9qIYz2bjyTDQ5I321o5FCTUp0566JCxVoM\nm5yp3YrxhslIvtQyGnVptqnthAV200+lWyHF3x5F1BbBIE3HwmWaOxFkVKVQqMii\nXhovDfC2Kuqk7P5xtp18ItzglQKBgQDMdSEzMQFm2fDh8aKAS5cMiKUvx8iMdQIM\n3zkVVny7EIx5VggIiAlkBUx0edTnpbJRPPuLNQyv9uTxa1yHdnoqar/C5OOk/NOF\nulkmTAWgjEPQCXw26yg79gHB/JZRoBEywHXt+XGdyNxTV9C0tb3x2wWduzfQHt0Z\nn4z+XK3CcQKBgHiH51OsWCS5wupelcaa4SWlnNwPB+cbQXFVMRORnzxiZU+oS9Fy\n5bhmPmj2Lp0bKVhgIMan/pc5KzWERxpnPBvGEv6ly1hQmcMDE3TnhMnj60ASmLu7\nowtncFYHRslw/lx3RjbLDaW1WvP3OkTHNDqfw72FlpmDJwnJ4LeWb5ztAoGBAKc1\nP3KbKFdR84ME123u49g3REjALY5Y/tVCFXAS7C0cSpXMuwMnJe7rumwjWvAbfaqc\noedl+jtKQlACCokqZpyb8rnT8Sx0LBTYoqIEWDHFpIvVxgUv6haniSZ5iQG2U3pb\nFdcKQlXU+AMc9S1k2LOb+IrXmryVESMsbeV0LBKxAoGBAJOKjaE6hBZywPzUxwAW\nudSJIvm3BrcrMYyulR0Ox6k+l1hZMehuLYl3v3fpY0wA2JIOorsDr49brC6dgHbH\njuSb97SHZJw72LTKjYD2OpNbZyak9z3Kfq92cendim+QxASAsWdMSLZ2hlkqkbTC\nBrs8rplmsE0J2mm9fxZS629x\n-----END PRIVATE KEY-----\n",
+  "client_email": "enl-30@earth-neuro-link.iam.gserviceaccount.com",
+  "client_id": "110589053138328477486",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/enl-30%40earth-neuro-link.iam.gserviceaccount.com"
+}
